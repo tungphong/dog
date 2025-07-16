@@ -1,6 +1,6 @@
 package dog
 import (
-    "string"
+    "fmt"
 )
 
 func WhenGrownUp(s string) string {
